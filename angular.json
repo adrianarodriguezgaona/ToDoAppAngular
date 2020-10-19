@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-todo"
+    }
+  },
+  "defaultProject": "angular-todo",
+  "cli": {
+    "analytics": "1bfccc73-3565-4199-b024-332b26435816"
+  }
 }
